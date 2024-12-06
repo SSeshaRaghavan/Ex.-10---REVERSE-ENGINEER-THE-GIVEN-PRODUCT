@@ -33,10 +33,10 @@
 ## Input:
 
 ### Output:
+![DoorStopper](https://github.com/user-attachments/assets/15a423ea-421e-4350-bea6-f869a3620fb2)
 
-
-### Name:
-### Register Number:
+### Name:S Sesha Raghavan
+### Register Number:24900320
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
